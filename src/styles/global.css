@@ -26,6 +26,7 @@
 
 body {
   font-family: "Inter", sans-serif;
+  
 }
 
 img {
@@ -45,12 +46,15 @@ a {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+  
 }
 
 .content-box {
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 16px;
+  
+  
 }
 
 .bg-config-default-fixed {
